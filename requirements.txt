@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+beautifulsoup4
+requests
+python-dotenv
+lxml
+Pillow

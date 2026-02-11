@@ -1,0 +1,12 @@
+{
+    "sites": [
+        {
+            "name": "Social Geek",
+            "url": "https://socialgeek.online",
+            "username": "Rashed",
+            "password": "8IPX ZXI4 QPPm wxJD 51nW mHir"
+        }
+    ],
+    "api_key": "AIzaSyC_UwKqx1Lh16b6o1fgyetVzGXdD4oHkqU",
+    "model": "gemini-2.5-flash"
+}
